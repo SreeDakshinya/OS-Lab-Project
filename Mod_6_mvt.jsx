@@ -15,7 +15,7 @@ function Mod6_mvt() {
 
   return (
     <div>
-      <div data-pym-src="https://www.jdoodle.com/embed/v1/6a7acba57fd930f3?config={&quot;showFooter&quot;: false}"></div>
+      <div data-pym-src="https://www.jdoodle.com/embed/v1/6a7acba57fd930f3"></div>
     </div>
   );
 }

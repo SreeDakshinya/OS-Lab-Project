@@ -15,7 +15,7 @@ function Mod10_link() {
 
   return (
     <div>
-      <div data-pym-src="https://www.jdoodle.com/embed/v1/89b9d4b70c042d4f"></div>
+      <div data-pym-src="https://www.jdoodle.com/embed/v1/ed851cb5ac22048"></div>
     </div>
   );
 }

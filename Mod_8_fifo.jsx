@@ -15,7 +15,7 @@ function Mod8_fifo() {
 
   return (
     <div>
-      <div data-pym-src="https://www.jdoodle.com/embed/v1/89b9d4b70c042d4f"></div>
+      <div data-pym-src="https://www.jdoodle.com/embed/v1/673697ec7c3500f3"></div>
     </div>
   );
 }
