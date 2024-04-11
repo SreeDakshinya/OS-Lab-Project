@@ -15,7 +15,7 @@ function Mod7_best() {
 
   return (
     <div>
-      <div data-pym-src="https://www.jdoodle.com/embed/v1/6f43682b8695492d?config={&quot;showFooter&quot;: false}"></div>
+      <div data-pym-src="https://www.jdoodle.com/embed/v1/db87fdcc370f3730"></div>
     </div>
   );
 }

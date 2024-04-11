@@ -15,7 +15,7 @@ function Mod8_optimal() {
 
   return (
     <div>
-      <div data-pym-src="https://www.jdoodle.com/embed/v1/89b9d4b70c042d4f"></div>
+      <div data-pym-src="https://www.jdoodle.com/embed/v1/ff02ccb3e9cc3b75"></div>
     </div>
   );
 }
